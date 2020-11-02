@@ -421,4 +421,4 @@ Class | Method | HTTP request | Description
 ## Fully generated ⚙️
 
 This library is fully generated from OpenAPI definitions files : 
-- [https://developer.atlassian.com/cloud/trello/swagger.v3.json] trello/swagger.v3/json
+- [trello/swagger.v3.json](https://developer.atlassian.com/cloud/trello/swagger.v3.json)
