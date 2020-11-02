@@ -501,3 +501,7 @@ Class | Method | HTTP request | Description
 - **API key parameter name**: token
 - **Location**: URL query string
 
+## Fully generated
+
+This library is fully generated from OpenAPI definitions files : 
+- [https://developer.atlassian.com/cloud/trello/swagger.v3.json] trello/swagger.v3/json
