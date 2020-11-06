@@ -1,6 +1,6 @@
 # Trello NodeJS API Client
 
-[![npm version](https://badge.fury.io/js/trello_rest_api.svg)](https://badge.fury.io/js/trello_rest_api) ![npm](https://img.shields.io/npm/dm/trello_rest_api) ![Twitter Follow](https://img.shields.io/twitter/follow/elienairo?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/elienairo?style=social)
 
 TrelloRestApi - JavaScript client for Trello
 
