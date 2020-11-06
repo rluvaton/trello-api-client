@@ -4,14 +4,6 @@
 
 TrelloRestApi - JavaScript client for Trello
 
-## Installation ⭐
-
-Install with [npm](https://www.npmjs.com/package/trello_rest_api)
-
-```
-npm install --save trello_rest_api
-```
-
 ## Getting Started
 
 Please follow the [installation](#installation) instruction and execute the following JS code:
